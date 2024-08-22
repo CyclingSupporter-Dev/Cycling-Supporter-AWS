@@ -1,6 +1,7 @@
 <H1>Cycling Supporter AWS</H1>
 <body><p>
 2019 KPU 클라우드 컴퓨팅 조별과제
+<p><a href=“https://youtu.be/G39ZnHDm7jI”>구현 영상</a>
 <p><b>Architecture Diagram.svg</b> : 서비스 아키텍처 설계 다이어그램
 <p><b>Android App.apk</b> : Android 앱
 <p><b>Android Studio Project.zip , Android Studio Project.z*</b> : Android Studio 프로젝트에 대한 분할 압축 파일
